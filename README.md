@@ -40,4 +40,12 @@
 |  |
 | ------- |
 | [1796-second-largest-digit-in-a-string](https://github.com/Adityaverdhan/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Adityaverdhan/leetcode/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Adityaverdhan/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
