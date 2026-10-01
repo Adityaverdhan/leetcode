@@ -22,6 +22,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Adityaverdhan/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Adityaverdhan/leetcode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Adityaverdhan/leetcode/tree/master/0231-power-of-two) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Adityaverdhan/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Adityaverdhan/leetcode/tree/master/0704-binary-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Adityaverdhan/leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Adityaverdhan/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
