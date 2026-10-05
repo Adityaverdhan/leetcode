@@ -47,6 +47,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adityaverdhan/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityaverdhan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/Adityaverdhan/leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0912-sort-an-array) |
@@ -69,6 +70,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -95,6 +97,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adityaverdhan/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Adityaverdhan/leetcode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
