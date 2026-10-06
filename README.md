@@ -114,4 +114,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityaverdhan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Adityaverdhan/leetcode/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Adityaverdhan/leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
