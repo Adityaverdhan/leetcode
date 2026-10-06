@@ -74,6 +74,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Adityaverdhan/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Adityaverdhan/leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Adityaverdhan/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [0027-remove-element](https://github.com/Adityaverdhan/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Adityaverdhan/leetcode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Adityaverdhan/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Adityaverdhan/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Adityaverdhan/leetcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Adityaverdhan/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -123,6 +125,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Adityaverdhan/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Adityaverdhan/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Adityaverdhan/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/Adityaverdhan/leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Adityaverdhan/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
@@ -133,4 +136,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Adityaverdhan/leetcode/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Adityaverdhan/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
