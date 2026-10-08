@@ -29,6 +29,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Adityaverdhan/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Adityaverdhan/leetcode/tree/master/0344-reverse-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Adityaverdhan/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Adityaverdhan/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
