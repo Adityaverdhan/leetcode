@@ -31,6 +31,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/Adityaverdhan/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Adityaverdhan/leetcode/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/Adityaverdhan/leetcode/tree/master/0771-jewels-and-stones) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Adityaverdhan/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Adityaverdhan/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/Adityaverdhan/leetcode/tree/master/2942-find-words-containing-character) |
@@ -48,6 +49,7 @@
 | [0141-linked-list-cycle](https://github.com/Adityaverdhan/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityaverdhan/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Adityaverdhan/leetcode/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/Adityaverdhan/leetcode/tree/master/0771-jewels-and-stones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Adityaverdhan/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Array
 |  |
