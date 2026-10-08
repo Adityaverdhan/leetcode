@@ -33,6 +33,7 @@
 | [0344-reverse-string](https://github.com/Adityaverdhan/leetcode/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/Adityaverdhan/leetcode/tree/master/0771-jewels-and-stones) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Adityaverdhan/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Adityaverdhan/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Adityaverdhan/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/Adityaverdhan/leetcode/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Adityaverdhan/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0912-sort-an-array) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Adityaverdhan/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Adityaverdhan/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -166,4 +168,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Adityaverdhan/leetcode/tree/master/0234-palindrome-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Adityaverdhan/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
