@@ -26,6 +26,7 @@
 | [0231-power-of-two](https://github.com/Adityaverdhan/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Adityaverdhan/leetcode/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Adityaverdhan/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/Adityaverdhan/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Adityaverdhan/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adityaverdhan/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Adityaverdhan/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Adityaverdhan/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2942-find-words-containing-character](https://github.com/Adityaverdhan/leetcode/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Adityaverdhan/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Euclidean Algorithm
@@ -172,4 +174,5 @@
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adityaverdhan/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/Adityaverdhan/leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
