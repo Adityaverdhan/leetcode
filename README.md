@@ -43,6 +43,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityaverdhan/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Adityaverdhan/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adityaverdhan/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Adityaverdhan/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Adityaverdhan/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Adityaverdhan/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2942-find-words-containing-character](https://github.com/Adityaverdhan/leetcode/tree/master/2942-find-words-containing-character) |
@@ -65,6 +66,7 @@
 | [0242-valid-anagram](https://github.com/Adityaverdhan/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adityaverdhan/leetcode/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/Adityaverdhan/leetcode/tree/master/0771-jewels-and-stones) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Adityaverdhan/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Adityaverdhan/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Adityaverdhan/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Array
@@ -137,6 +139,7 @@
 | ------- |
 | [0912-sort-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0912-sort-an-array) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adityaverdhan/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Adityaverdhan/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Adityaverdhan/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
