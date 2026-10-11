@@ -2,46 +2,42 @@
  * @param {string} s
  * @return {string}
  */
-function reorganizeString(s) {
-  const freq = new Map();
+var reorganizeString = function(s) {
+    let freq = new Array(26).fill(0);
 
-  for (const char of s) {
-    freq.set(char, (freq.get(char) || 0) + 1);
-  }
-
-  // If one character appears too often, arrangement is impossible.
-  if (Math.max(...freq.values()) > Math.ceil(s.length / 2)) {
-    return "";
-  }
-
-  // Array used as a max heap: [count, character]
-  const heap = [...freq.entries()]
-    .map(([char, count]) => [count, char])
-    .sort((a, b) => b[0] - a[0]);
-
-  const popMax = () => heap.shift();
-
-  const push = (item) => {
-    heap.push(item);
-    heap.sort((a, b) => b[0] - a[0]);
-  };
-
-  let result = "";
-  let previous = null; // Character used in the last step
-
-  while (heap.length > 0) {
-    const [count, char] = popMax();
-
-    result += char;
-
-    // The previously used character can now be used again.
-    if (previous !== null) {
-      push(previous);
+    for (let char of s) {
+        freq[char.charCodeAt(0) - 97]++;
     }
 
-    // Save this character if it still has remaining occurrences.
-    previous = count - 1 > 0 ? [count - 1, char] : null;
-  }
+    let maxFreq = Math.max(...freq);
 
-  return result;
-}
+    if (maxFreq > Math.ceil(s.length / 2)) {
+        return "";
+    }
+
+    let maxIndex = freq.indexOf(maxFreq);
+    let result = new Array(s.length);
+    let index = 0;
+
+    // Place the most frequent character first
+    while (freq[maxIndex] > 0) {
+        result[index] = String.fromCharCode(maxIndex + 97);
+        index += 2;
+        freq[maxIndex]--;
+    }
+
+    // Place all remaining characters
+    for (let i = 0; i < 26; i++) {
+        while (freq[i] > 0) {
+            if (index >= s.length) {
+                index = 1;
+            }
+
+            result[index] = String.fromCharCode(i + 97);
+            index += 2;
+            freq[i]--;
+        }
+    }
+
+    return result.join("");
+};
