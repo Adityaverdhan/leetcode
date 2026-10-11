@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Adityaverdhan/leetcode/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/Adityaverdhan/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Adityaverdhan/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Adityaverdhan/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Adityaverdhan/leetcode/tree/master/0125-valid-palindrome) |
