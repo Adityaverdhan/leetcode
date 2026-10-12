@@ -46,6 +46,7 @@
 | [0767-reorganize-string](https://github.com/Adityaverdhan/leetcode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Adityaverdhan/leetcode/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityaverdhan/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Adityaverdhan/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Adityaverdhan/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adityaverdhan/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Adityaverdhan/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -210,6 +211,7 @@
 | [0234-palindrome-linked-list](https://github.com/Adityaverdhan/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Adityaverdhan/leetcode/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityaverdhan/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Adityaverdhan/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityaverdhan/leetcode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityaverdhan/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Adityaverdhan/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
 |  |
 | ------- |
