@@ -71,6 +71,7 @@
 | [0205-isomorphic-strings](https://github.com/Adityaverdhan/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Adityaverdhan/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adityaverdhan/leetcode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Adityaverdhan/leetcode/tree/master/0496-next-greater-element-i) |
 | [0767-reorganize-string](https://github.com/Adityaverdhan/leetcode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Adityaverdhan/leetcode/tree/master/0771-jewels-and-stones) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Adityaverdhan/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -89,6 +90,7 @@
 | [0268-missing-number](https://github.com/Adityaverdhan/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Adityaverdhan/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Adityaverdhan/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Adityaverdhan/leetcode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Adityaverdhan/leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0912-sort-an-array) |
 | [2942-find-words-containing-character](https://github.com/Adityaverdhan/leetcode/tree/master/2942-find-words-containing-character) |
@@ -210,6 +212,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Adityaverdhan/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Adityaverdhan/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Adityaverdhan/leetcode/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/Adityaverdhan/leetcode/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityaverdhan/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Adityaverdhan/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
@@ -250,4 +253,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Adityaverdhan/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Adityaverdhan/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Adityaverdhan/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
