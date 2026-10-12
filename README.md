@@ -23,6 +23,7 @@
 | [0002-add-two-numbers](https://github.com/Adityaverdhan/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Adityaverdhan/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Adityaverdhan/leetcode/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Adityaverdhan/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Adityaverdhan/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Adityaverdhan/leetcode/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Adityaverdhan/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -87,6 +88,7 @@
 | [0088-merge-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityaverdhan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Adityaverdhan/leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Adityaverdhan/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Adityaverdhan/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Adityaverdhan/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Adityaverdhan/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityaverdhan/leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Adityaverdhan/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Adityaverdhan/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Adityaverdhan/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Adityaverdhan/leetcode/tree/master/0232-implement-queue-using-stacks) |
