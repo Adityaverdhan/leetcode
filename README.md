@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Adityaverdhan/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Adityaverdhan/leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Adityaverdhan/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Adityaverdhan/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Adityaverdhan/leetcode/tree/master/0058-length-of-last-word) |
@@ -201,6 +202,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Adityaverdhan/leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Adityaverdhan/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Adityaverdhan/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Adityaverdhan/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -220,6 +222,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Adityaverdhan/leetcode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityaverdhan/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String Matching
 |  |
