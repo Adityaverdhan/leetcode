@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Adityaverdhan/leetcode/tree/master/0100-same-tree) |
+| [0994-rotting-oranges](https://github.com/Adityaverdhan/leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0704-binary-search](https://github.com/Adityaverdhan/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Adityaverdhan/leetcode/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/Adityaverdhan/leetcode/tree/master/0994-rotting-oranges) |
 | [2942-find-words-containing-character](https://github.com/Adityaverdhan/leetcode/tree/master/2942-find-words-containing-character) |
 ## Binary Search
 |  |
@@ -266,4 +268,8 @@
 | [0496-next-greater-element-i](https://github.com/Adityaverdhan/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adityaverdhan/leetcode/tree/master/0739-daily-temperatures) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Adityaverdhan/leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
