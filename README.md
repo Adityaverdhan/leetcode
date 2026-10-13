@@ -93,6 +93,7 @@
 | [0283-move-zeroes](https://github.com/Adityaverdhan/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Adityaverdhan/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Adityaverdhan/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Adityaverdhan/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Adityaverdhan/leetcode/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0912-sort-an-array) |
@@ -217,6 +218,7 @@
 | [0234-palindrome-linked-list](https://github.com/Adityaverdhan/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Adityaverdhan/leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Adityaverdhan/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adityaverdhan/leetcode/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityaverdhan/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Adityaverdhan/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -262,5 +264,6 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Adityaverdhan/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adityaverdhan/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
