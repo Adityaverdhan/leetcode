@@ -101,6 +101,7 @@
 | [0496-next-greater-element-i](https://github.com/Adityaverdhan/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Adityaverdhan/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Adityaverdhan/leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adityaverdhan/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -119,6 +120,7 @@
 | [0278-first-bad-version](https://github.com/Adityaverdhan/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Adityaverdhan/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Adityaverdhan/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adityaverdhan/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
@@ -149,11 +151,13 @@
 | [0088-merge-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Adityaverdhan/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adityaverdhan/leetcode/tree/master/0268-missing-number) |
+| [0658-find-k-closest-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Adityaverdhan/leetcode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Adityaverdhan/leetcode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -192,6 +196,7 @@
 | [0283-move-zeroes](https://github.com/Adityaverdhan/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Adityaverdhan/leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0541-reverse-string-ii) |
+| [0658-find-k-closest-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Adityaverdhan/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -301,4 +306,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adityaverdhan/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
