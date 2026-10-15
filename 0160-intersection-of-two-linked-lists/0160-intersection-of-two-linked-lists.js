@@ -20,5 +20,5 @@ var getIntersectionNode = function(headA, headB) {
         pointB=pointB===null?headA:pointB.next;
     }
 
-    return pointA;
+    return pointB;//pointA
 };
