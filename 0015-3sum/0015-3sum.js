@@ -6,7 +6,7 @@ var threeSum = function(nums) {
     nums.sort((a,b)=>a-b);
     let result=[];
 
-    for(let i=0; i<nums.length-1;i++){ //nums.length-2
+    for(let i=0; i<nums.length-2;i++){ //nums.length-1
 
         if(i>0 && nums[i]===nums[i-1]) continue;
 
