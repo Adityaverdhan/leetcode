@@ -94,6 +94,7 @@
 | [0027-remove-element](https://github.com/Adityaverdhan/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Adityaverdhan/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Adityaverdhan/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityaverdhan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -198,6 +199,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adityaverdhan/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adityaverdhan/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Adityaverdhan/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Adityaverdhan/leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Adityaverdhan/leetcode/tree/master/0125-valid-palindrome) |
@@ -215,6 +217,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Adityaverdhan/leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityaverdhan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Adityaverdhan/leetcode/tree/master/0392-is-subsequence) |
 ## Linked List
@@ -249,6 +252,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityaverdhan/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Adityaverdhan/leetcode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adityaverdhan/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Adityaverdhan/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Adityaverdhan/leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -306,6 +310,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Adityaverdhan/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Adityaverdhan/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adityaverdhan/leetcode/tree/master/0739-daily-temperatures) |
