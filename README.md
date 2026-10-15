@@ -25,6 +25,7 @@
 | [0007-reverse-integer](https://github.com/Adityaverdhan/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Adityaverdhan/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Adityaverdhan/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Adityaverdhan/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adityaverdhan/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Adityaverdhan/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Adityaverdhan/leetcode/tree/master/0268-missing-number) |
@@ -218,6 +219,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Adityaverdhan/leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Adityaverdhan/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityaverdhan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Adityaverdhan/leetcode/tree/master/0392-is-subsequence) |
 ## Linked List
@@ -335,4 +337,8 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0658-find-k-closest-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Adityaverdhan/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
