@@ -50,6 +50,7 @@
 | [0394-decode-string](https://github.com/Adityaverdhan/leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaverdhan/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/Adityaverdhan/leetcode/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/Adityaverdhan/leetcode/tree/master/0686-repeated-string-match) |
 | [0767-reorganize-string](https://github.com/Adityaverdhan/leetcode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Adityaverdhan/leetcode/tree/master/0771-jewels-and-stones) |
@@ -83,6 +84,7 @@
 | [0268-missing-number](https://github.com/Adityaverdhan/leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaverdhan/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Adityaverdhan/leetcode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Adityaverdhan/leetcode/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/Adityaverdhan/leetcode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Adityaverdhan/leetcode/tree/master/0771-jewels-and-stones) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Adityaverdhan/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -217,6 +219,7 @@
 | [0344-reverse-string](https://github.com/Adityaverdhan/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Adityaverdhan/leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/Adityaverdhan/leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Adityaverdhan/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -342,6 +345,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityaverdhan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaverdhan/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Adityaverdhan/leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Memoization
 |  |
