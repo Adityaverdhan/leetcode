@@ -110,6 +110,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Adityaverdhan/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityaverdhan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0239-sliding-window-maximum](https://github.com/Adityaverdhan/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Adityaverdhan/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Adityaverdhan/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Adityaverdhan/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -174,6 +175,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Adityaverdhan/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Adityaverdhan/leetcode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0912-sort-an-array) |
@@ -316,6 +318,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Adityaverdhan/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Adityaverdhan/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Adityaverdhan/leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -344,6 +347,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityaverdhan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Adityaverdhan/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaverdhan/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Adityaverdhan/leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -351,4 +355,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Adityaverdhan/leetcode/tree/master/0070-climbing-stairs) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Adityaverdhan/leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Adityaverdhan/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
