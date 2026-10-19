@@ -14,6 +14,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityaverdhan/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adityaverdhan/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Adityaverdhan/leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Adityaverdhan/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityaverdhan/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adityaverdhan/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Adityaverdhan/leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Adityaverdhan/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityaverdhan/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adityaverdhan/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Adityaverdhan/leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Adityaverdhan/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -397,4 +400,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Adityaverdhan/leetcode/tree/master/0239-sliding-window-maximum) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Adityaverdhan/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
