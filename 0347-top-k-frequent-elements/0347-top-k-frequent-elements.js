@@ -4,14 +4,13 @@
  * @return {number[]}
  */
 var topKFrequent = function (nums, k) {
-    const freqCountMap = new Map()
+    let freqmap=new Map();
 
-    for (const i of nums) {
-        freqCountMap.set(i, (freqCountMap.get(i) ?? 0) + 1)
+    for(const i of nums){
+        freqmap.set(i, (freqmap.get(i)??0) +1); 
     }
 
-    const freqValues = [...freqCountMap].sort((a, b) => b[1] - a[1]);
+    let freqValue= [...freqmap].sort((a,b)=>b[1]-a[1]);
 
-    return freqValues.slice(0, k).map(([num]) => num);
-
+    return freqValue.slice(0,k).map(([num])=>num);
 };
