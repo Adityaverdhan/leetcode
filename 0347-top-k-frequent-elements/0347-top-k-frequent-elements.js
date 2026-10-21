@@ -4,19 +4,14 @@
  * @return {number[]}
  */
 var topKFrequent = function (nums, k) {
-    let map = {};
-    for (let i = 0; i < nums.length; i++) {
-        if (!map[nums[i]]) map[nums[i]] = 0;
-        ++map[nums[i]];
+    const freqCountMap = new Map()
+
+    for (const i of nums) {
+        freqCountMap.set(i, (freqCountMap.get(i) ?? 0) + 1)
     }
-    
-    let pq = new MinPriorityQueue(x => x.freq);
-    for (const key in map) {
-        pq.push({ val: key, freq: map[key] }); 
-        if (pq.size() > k) {
-            pq.pop();
-        }
-    }
-    
-    return pq.toArray().map(x => Number(x.val))
+
+    const freqValues = [...freqCountMap].sort((a, b) => b[1] - a[1]);
+
+    return freqValues.slice(0, k).map(([num]) => num);
+
 };
