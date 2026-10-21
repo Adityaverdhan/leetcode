@@ -11,6 +11,7 @@ var kthSmallest = function(matrix, k) {
     for(let i = 0; i < Math.min(n,k); i++) {
         heap.push({val: matrix[i][0], row: i, col: 0});
     }
+    
     for(let count=0; count < k-1; count++) {
         let {val, row, col} = heap.pop();
         if(col+1 < n) {
