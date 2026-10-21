@@ -183,6 +183,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Adityaverdhan/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityaverdhan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Adityaverdhan/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Adityaverdhan/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Adityaverdhan/leetcode/tree/master/0283-move-zeroes) |
@@ -234,6 +235,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -241,6 +243,7 @@
 | [0015-3sum](https://github.com/Adityaverdhan/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Adityaverdhan/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Adityaverdhan/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adityaverdhan/leetcode/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -249,6 +252,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Adityaverdhan/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Adityaverdhan/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -478,4 +482,8 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Adityaverdhan/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
