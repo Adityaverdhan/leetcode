@@ -177,6 +177,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Adityaverdhan/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Adityaverdhan/leetcode/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/Adityaverdhan/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityaverdhan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Adityaverdhan/leetcode/tree/master/0136-single-number) |
@@ -222,6 +223,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Adityaverdhan/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Adityaverdhan/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Adityaverdhan/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Adityaverdhan/leetcode/tree/master/0268-missing-number) |
@@ -499,4 +501,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Adityaverdhan/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
