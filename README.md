@@ -31,6 +31,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Adityaverdhan/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adityaverdhan/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Adityaverdhan/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Adityaverdhan/leetcode/tree/master/0100-same-tree) |
@@ -115,6 +116,7 @@
 | [0038-count-and-say](https://github.com/Adityaverdhan/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Adityaverdhan/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Adityaverdhan/leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Adityaverdhan/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Adityaverdhan/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Adityaverdhan/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Adityaverdhan/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -185,6 +187,7 @@
 | [0047-permutations-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Adityaverdhan/leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Adityaverdhan/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Adityaverdhan/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityaverdhan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -441,6 +444,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Adityaverdhan/leetcode/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Adityaverdhan/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/Adityaverdhan/leetcode/tree/master/0994-rotting-oranges) |
 ## Newton's Method
@@ -523,6 +527,7 @@
 | [0047-permutations-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Adityaverdhan/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Adityaverdhan/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Adityaverdhan/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Adityaverdhan/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Adityaverdhan/leetcode/tree/master/0216-combination-sum-iii) |
