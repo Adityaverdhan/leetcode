@@ -213,6 +213,7 @@
 | [0704-binary-search](https://github.com/Adityaverdhan/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Adityaverdhan/leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adityaverdhan/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/Adityaverdhan/leetcode/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Adityaverdhan/leetcode/tree/master/0994-rotting-oranges) |
 | [1029-two-city-scheduling](https://github.com/Adityaverdhan/leetcode/tree/master/1029-two-city-scheduling) |
@@ -401,6 +402,7 @@
 | [0011-container-with-most-water](https://github.com/Adityaverdhan/leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Adityaverdhan/leetcode/tree/master/0455-assign-cookies) |
 | [0767-reorganize-string](https://github.com/Adityaverdhan/leetcode/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/Adityaverdhan/leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityaverdhan/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1029-two-city-scheduling](https://github.com/Adityaverdhan/leetcode/tree/master/1029-two-city-scheduling) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adityaverdhan/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
