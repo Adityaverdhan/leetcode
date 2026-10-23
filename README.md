@@ -186,6 +186,7 @@
 | [0046-permutations](https://github.com/Adityaverdhan/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Adityaverdhan/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Adityaverdhan/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Adityaverdhan/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Adityaverdhan/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0088-merge-sorted-array) |
@@ -525,10 +526,15 @@
 | [0040-combination-sum-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Adityaverdhan/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Adityaverdhan/leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Adityaverdhan/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Adityaverdhan/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Adityaverdhan/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Adityaverdhan/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Adityaverdhan/leetcode/tree/master/0216-combination-sum-iii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Adityaverdhan/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
