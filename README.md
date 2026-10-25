@@ -187,6 +187,7 @@
 | [0047-permutations-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Adityaverdhan/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Adityaverdhan/leetcode/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/Adityaverdhan/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Adityaverdhan/leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Adityaverdhan/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Adityaverdhan/leetcode/tree/master/0079-word-search) |
@@ -269,6 +270,7 @@
 | [0015-3sum](https://github.com/Adityaverdhan/leetcode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Adityaverdhan/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Adityaverdhan/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Adityaverdhan/leetcode/tree/master/0242-valid-anagram) |
@@ -561,5 +563,6 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Adityaverdhan/leetcode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Adityaverdhan/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
