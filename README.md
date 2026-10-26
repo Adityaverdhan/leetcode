@@ -165,6 +165,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaverdhan/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Adityaverdhan/leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Adityaverdhan/leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Adityaverdhan/leetcode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/Adityaverdhan/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Adityaverdhan/leetcode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Adityaverdhan/leetcode/tree/master/0771-jewels-and-stones) |
@@ -215,6 +216,7 @@
 | [0496-next-greater-element-i](https://github.com/Adityaverdhan/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/Adityaverdhan/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Adityaverdhan/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Adityaverdhan/leetcode/tree/master/0739-daily-temperatures) |
@@ -282,6 +284,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Adityaverdhan/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Adityaverdhan/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Adityaverdhan/leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Adityaverdhan/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Adityaverdhan/leetcode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0912-sort-an-array) |
@@ -293,6 +296,7 @@
 | [0239-sliding-window-maximum](https://github.com/Adityaverdhan/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Adityaverdhan/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/Adityaverdhan/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Adityaverdhan/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/Adityaverdhan/leetcode/tree/master/0767-reorganize-string) |
@@ -315,6 +319,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Adityaverdhan/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Adityaverdhan/leetcode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0912-sort-an-array) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adityaverdhan/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -414,6 +419,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Adityaverdhan/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Adityaverdhan/leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Adityaverdhan/leetcode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/Adityaverdhan/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Adityaverdhan/leetcode/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Adityaverdhan/leetcode/tree/master/0860-lemonade-change) |
