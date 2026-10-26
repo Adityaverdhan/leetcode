@@ -228,6 +228,7 @@
 | [0994-rotting-oranges](https://github.com/Adityaverdhan/leetcode/tree/master/0994-rotting-oranges) |
 | [1029-two-city-scheduling](https://github.com/Adityaverdhan/leetcode/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/Adityaverdhan/leetcode/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Adityaverdhan/leetcode/tree/master/1094-car-pooling) |
 | [2942-find-words-containing-character](https://github.com/Adityaverdhan/leetcode/tree/master/2942-find-words-containing-character) |
 ## Binary Search
 |  |
@@ -291,6 +292,7 @@
 | [0767-reorganize-string](https://github.com/Adityaverdhan/leetcode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0912-sort-an-array) |
 | [1029-two-city-scheduling](https://github.com/Adityaverdhan/leetcode/tree/master/1029-two-city-scheduling) |
+| [1094-car-pooling](https://github.com/Adityaverdhan/leetcode/tree/master/1094-car-pooling) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -304,6 +306,7 @@
 | [0767-reorganize-string](https://github.com/Adityaverdhan/leetcode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Adityaverdhan/leetcode/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Adityaverdhan/leetcode/tree/master/1094-car-pooling) |
 ## Merge Sort
 |  |
 | ------- |
@@ -583,4 +586,12 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Adityaverdhan/leetcode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Adityaverdhan/leetcode/tree/master/0455-assign-cookies) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Adityaverdhan/leetcode/tree/master/1094-car-pooling) |
+## Prefix Sum
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Adityaverdhan/leetcode/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
