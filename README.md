@@ -222,6 +222,7 @@
 | [0658-find-k-closest-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Adityaverdhan/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Adityaverdhan/leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Adityaverdhan/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adityaverdhan/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Adityaverdhan/leetcode/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0912-sort-an-array) |
@@ -368,6 +369,7 @@
 | [0131-palindrome-partitioning](https://github.com/Adityaverdhan/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Adityaverdhan/leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Adityaverdhan/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0746-min-cost-climbing-stairs](https://github.com/Adityaverdhan/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Linked List
 |  |
 | ------- |
