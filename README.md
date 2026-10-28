@@ -221,6 +221,7 @@
 | [0239-sliding-window-maximum](https://github.com/Adityaverdhan/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Adityaverdhan/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Adityaverdhan/leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Adityaverdhan/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Adityaverdhan/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Adityaverdhan/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -254,6 +255,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityaverdhan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Adityaverdhan/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Adityaverdhan/leetcode/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/Adityaverdhan/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Adityaverdhan/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Adityaverdhan/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityaverdhan/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -389,6 +391,7 @@
 | [0152-maximum-product-subarray](https://github.com/Adityaverdhan/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Adityaverdhan/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Adityaverdhan/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Adityaverdhan/leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Adityaverdhan/leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Adityaverdhan/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -638,4 +641,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Adityaverdhan/leetcode/tree/master/0139-word-break) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Adityaverdhan/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
