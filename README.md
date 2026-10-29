@@ -104,6 +104,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adityaverdhan/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Adityaverdhan/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Adityaverdhan/leetcode/tree/master/0268-missing-number) |
+| [0887-super-egg-drop](https://github.com/Adityaverdhan/leetcode/tree/master/0887-super-egg-drop) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Adityaverdhan/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/Adityaverdhan/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## String
@@ -267,6 +268,7 @@
 | [0658-find-k-closest-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Adityaverdhan/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adityaverdhan/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0887-super-egg-drop](https://github.com/Adityaverdhan/leetcode/tree/master/0887-super-egg-drop) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -407,6 +409,7 @@
 | [0518-coin-change-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Adityaverdhan/leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Adityaverdhan/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0887-super-egg-drop](https://github.com/Adityaverdhan/leetcode/tree/master/0887-super-egg-drop) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Adityaverdhan/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Linked List
 |  |
