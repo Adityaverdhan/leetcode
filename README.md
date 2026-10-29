@@ -247,6 +247,7 @@
 | [1029-two-city-scheduling](https://github.com/Adityaverdhan/leetcode/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/Adityaverdhan/leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Adityaverdhan/leetcode/tree/master/1094-car-pooling) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Adityaverdhan/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2942-find-words-containing-character](https://github.com/Adityaverdhan/leetcode/tree/master/2942-find-words-containing-character) |
 ## Binary Search
 |  |
@@ -313,6 +314,7 @@
 | [0912-sort-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0912-sort-an-array) |
 | [1029-two-city-scheduling](https://github.com/Adityaverdhan/leetcode/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/Adityaverdhan/leetcode/tree/master/1094-car-pooling) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Adityaverdhan/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -405,6 +407,7 @@
 | [0518-coin-change-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Adityaverdhan/leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Adityaverdhan/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Adityaverdhan/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Linked List
 |  |
 | ------- |
