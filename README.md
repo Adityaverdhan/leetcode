@@ -52,6 +52,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Adityaverdhan/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Adityaverdhan/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Adityaverdhan/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Adityaverdhan/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0322-coin-change](https://github.com/Adityaverdhan/leetcode/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/Adityaverdhan/leetcode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Adityaverdhan/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Adityaverdhan/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -681,4 +683,9 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Adityaverdhan/leetcode/tree/master/0133-clone-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Adityaverdhan/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Adityaverdhan/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
