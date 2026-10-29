@@ -99,6 +99,7 @@
 | [0002-add-two-numbers](https://github.com/Adityaverdhan/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Adityaverdhan/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Adityaverdhan/leetcode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Adityaverdhan/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Adityaverdhan/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Adityaverdhan/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adityaverdhan/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -391,6 +392,7 @@
 | [0045-jump-game-ii](https://github.com/Adityaverdhan/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Adityaverdhan/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Adityaverdhan/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Adityaverdhan/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Adityaverdhan/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Adityaverdhan/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityaverdhan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -668,4 +670,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Adityaverdhan/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Adityaverdhan/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
