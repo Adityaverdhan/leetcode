@@ -427,6 +427,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Adityaverdhan/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0887-super-egg-drop](https://github.com/Adityaverdhan/leetcode/tree/master/0887-super-egg-drop) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Adityaverdhan/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Adityaverdhan/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Linked List
 |  |
 | ------- |
@@ -697,6 +698,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/Adityaverdhan/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Adityaverdhan/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adityaverdhan/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Adityaverdhan/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Union-Find
 |  |
 | ------- |
@@ -718,4 +720,16 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Adityaverdhan/leetcode/tree/master/0332-reconstruct-itinerary) |
+## Topological Sort
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Adityaverdhan/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Adityaverdhan/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Adityaverdhan/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
