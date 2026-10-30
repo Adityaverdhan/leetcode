@@ -53,6 +53,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Adityaverdhan/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Adityaverdhan/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/Adityaverdhan/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Adityaverdhan/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Adityaverdhan/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adityaverdhan/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -71,6 +72,7 @@
 | [0322-coin-change](https://github.com/Adityaverdhan/leetcode/tree/master/0322-coin-change) |
 | [0797-all-paths-from-source-to-target](https://github.com/Adityaverdhan/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/Adityaverdhan/leetcode/tree/master/0994-rotting-oranges) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Adityaverdhan/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Adityaverdhan/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adityaverdhan/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -693,10 +695,12 @@
 | [0133-clone-graph](https://github.com/Adityaverdhan/leetcode/tree/master/0133-clone-graph) |
 | [0332-reconstruct-itinerary](https://github.com/Adityaverdhan/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0797-all-paths-from-source-to-target](https://github.com/Adityaverdhan/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Adityaverdhan/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adityaverdhan/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Adityaverdhan/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adityaverdhan/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Directed Acyclic Graph
 |  |
