@@ -49,6 +49,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adityaverdhan/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adityaverdhan/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Adityaverdhan/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/Adityaverdhan/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityaverdhan/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Adityaverdhan/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/Adityaverdhan/leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -134,6 +135,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Adityaverdhan/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Adityaverdhan/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Adityaverdhan/leetcode/tree/master/0242-valid-anagram) |
+| [0332-reconstruct-itinerary](https://github.com/Adityaverdhan/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/Adityaverdhan/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Adityaverdhan/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Adityaverdhan/leetcode/tree/master/0394-decode-string) |
@@ -234,6 +236,7 @@
 | [0283-move-zeroes](https://github.com/Adityaverdhan/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Adityaverdhan/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Adityaverdhan/leetcode/tree/master/0322-coin-change) |
+| [0332-reconstruct-itinerary](https://github.com/Adityaverdhan/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Adityaverdhan/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Adityaverdhan/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -314,6 +317,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Adityaverdhan/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adityaverdhan/leetcode/tree/master/0268-missing-number) |
+| [0332-reconstruct-itinerary](https://github.com/Adityaverdhan/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Adityaverdhan/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Adityaverdhan/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -330,6 +334,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adityaverdhan/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Adityaverdhan/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0332-reconstruct-itinerary](https://github.com/Adityaverdhan/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaverdhan/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Adityaverdhan/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Adityaverdhan/leetcode/tree/master/0621-task-scheduler) |
@@ -686,6 +691,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Adityaverdhan/leetcode/tree/master/0133-clone-graph) |
+| [0332-reconstruct-itinerary](https://github.com/Adityaverdhan/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0797-all-paths-from-source-to-target](https://github.com/Adityaverdhan/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adityaverdhan/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -696,4 +702,16 @@
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Adityaverdhan/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Adityaverdhan/leetcode/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Adityaverdhan/leetcode/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Adityaverdhan/leetcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
