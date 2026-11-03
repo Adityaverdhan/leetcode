@@ -6,7 +6,7 @@ var countSubstrings = function(s) {
     let count=0;
 
     function checkPalindrome(left,right){
-        while(left>=0 && right<s.length && s[left]===s[right]){
+        while(left>=0 && right < s.length && s[left]===s[right]){
             count++;
             left--;
             right++;
@@ -16,5 +16,6 @@ var countSubstrings = function(s) {
         checkPalindrome(i,i);
         checkPalindrome(i,i+1);
     }
+
     return count;
 };
