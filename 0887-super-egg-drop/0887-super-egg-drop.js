@@ -11,7 +11,7 @@ var superEggDrop = function(k, n) {
     while(dp[k]<n){
         moves++;
         for(let i=k; i>=1; i--){
-            dp[i]=dp[i]+dp[i-1]+1;
+            dp[i]+=dp[i-1]+1;
         }
     }
     return moves;
