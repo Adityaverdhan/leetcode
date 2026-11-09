@@ -26,8 +26,9 @@ var permuteUnique = function (nums) {
                 continue;
             }
 
-            usedPath[i] = true;
+            
             path.push(nums[i]);
+            usedPath[i] = true;
 
 
             backtracking();
