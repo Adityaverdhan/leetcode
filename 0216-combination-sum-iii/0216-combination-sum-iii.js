@@ -20,7 +20,7 @@ var combinationSum3 = function (k, n) {
         for (let i = start; i <= 9; i++) {
 
             if (i > remaining) {
-                break;
+                continue;
             }
 
             path.push(i);
