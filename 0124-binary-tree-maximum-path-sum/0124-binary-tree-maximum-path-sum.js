@@ -13,20 +13,22 @@
 var maxPathSum = function(root) {
     let maxCount=-Infinity;
 
-    function MaxPath(node){
-        if(node===null) return 0;
+    function maxPath(node){
+        if(node===null){
+            return 0;
+        }
 
-        let leftPath=Math.max(0,MaxPath(node.left));
-        let rightPath=Math.max(0,MaxPath(node.right));
+        let leftPath=Math.max(0,maxPath(node.left));
+        let rightPath=Math.max(0,maxPath(node.right));
 
-        let currentVal = leftPath+node.val+rightPath;
+        let currentVal=leftPath+node.val+rightPath;
 
-        maxCount=Math.max(currentVal,maxCount);
+        maxCount=Math.max(maxCount,currentVal);
 
-        return node.val+ Math.max(leftPath,rightPath);
+        return node.val+Math.max(leftPath,rightPath);
     }
 
-    MaxPath(root);
+    maxPath(root);
 
     return maxCount;
 };
